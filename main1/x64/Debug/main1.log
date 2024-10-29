@@ -1,0 +1,9 @@
+﻿  Find.cpp
+  Input.cpp
+  main.cpp
+  Sort.cpp
+  Stock.cpp
+C:\Users\user\source\repos\main1\main1\Stock.cpp(21,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  struct.cpp
+  Создание кода...
+  main1.vcxproj -> C:\Users\user\source\repos\main1\x64\Debug\main1.exe
